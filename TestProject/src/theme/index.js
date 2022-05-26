@@ -1,0 +1,26 @@
+
+ const Images = {
+   add: require('../assets/images/add.png'),
+   add2: require('../assets/images/add.png'),
+   add3: require('../assets/images/add.png'),
+   close: require('../assets/images/close.png'),
+   close2: require('../assets/images/close.png'),
+   close3: require('../assets/images/close.png'),
+   delete: require('../assets/images/delete.png'),
+   delete2: require('../assets/images/delete.png'),
+   delete3: require('../assets/images/delete.png'),
+   duplicate: require('../assets/images/duplicate.png'),
+   duplicate2: require('../assets/images/duplicate.png'),
+   duplicate3: require('../assets/images/duplicate.png'),
+   logo: require('../assets/images/logo.png'),
+   logo2: require('../assets/images/logo.png'),
+   logo3: require('../assets/images/logo.png'),
+   options: require('../assets/images/options.png'),
+   options2: require('../assets/images/options.png'),
+   options3: require('../assets/images/options.png'),
+   share: require('../assets/images/share.png'),
+   share2: require('../assets/images/share.png'),
+   share3: require('../assets/images/share.png'),
+   goBack: require('../assets/images/go-back-2.png'),
+ };
+export default Images
